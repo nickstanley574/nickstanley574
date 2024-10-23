@@ -3,7 +3,7 @@
 I'm Nick. I'm into building automated platforms and workflows that help organizations deliver reliable, secure software. I am an adventurer who loves to explore and understand the world around me, from something as simple as walking a new local trail to scuba diving the Great Barrier Reef.
 
 - 🔭 I’m currently working on the Backstop Solutions SaaS suite leading the Platform (DevOps) Team. 
-- 🌱 I’m currently exploring Terraform, AWS EKS, and AWS ECS.
+- 🌱 I’m currently exploring Terraform, kubernetes (AWS EKS), and AWS ECS.
 - 🌟 In my free time I enjoy building QLI items for my home like a custom pots and pans organizer.
 - 😸 Fun fact: Wombat poop is cube-shaped. Oh, and about me ... I once flew in an airplane powered by a lawn mower engine!
 
