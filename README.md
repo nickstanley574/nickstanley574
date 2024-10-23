@@ -5,7 +5,7 @@ I'm Nick. I'm into building automated platforms and workflows that help organiza
 - 🔭 I’m currently working on the Backstop Solutions SaaS suite leading the Platform (DevOps) Team. 
 - 🌱 I’m currently exploring Terraform, AWS EKS, and AWS ECS.
 - 🌟 In my free time I enjoy building QLI items for my home like a custom pots and pans organizer.
-- 😸 Fun fact: Wombat poop is cube-shaped. Oh, and about me... I once flew in an airplane powered by a lawn mower engine!
+- 😸 Fun fact: Wombat poop is cube-shaped. Oh, and about me ... I once flew in an airplane powered by a lawn mower engine!
 
 <!--
 **nickstanley574/nickstanley574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
